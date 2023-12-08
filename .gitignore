@@ -68,7 +68,6 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
-
 #composer
 .composer.lock
 # local env files
@@ -113,3 +112,5 @@ yarn.lock
 
 # dotenv environment variables file
 .env
+
+.composer.lock
